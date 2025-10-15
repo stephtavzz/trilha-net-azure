@@ -164,3 +164,4 @@ C:\Users\Stephanie Santos\Documents\TrilhaNetAzureDesafio\obj\Debug\net9.0\Trilh
 C:\Users\Stephanie Santos\Documents\TrilhaNetAzureDesafio\obj\Debug\net9.0\TrilhaNetAzureDesafio.genruntimeconfig.cache
 C:\Users\Stephanie Santos\Documents\TrilhaNetAzureDesafio\obj\Debug\net9.0\ref\TrilhaNetAzureDesafio.dll
 C:\Users\Stephanie Santos\Documents\TrilhaNetAzureDesafio\bin\Debug\net9.0\Azure.Data.Tables.dll
+C:\Users\Stephanie Santos\Documents\TrilhaNetAzureDesafio\obj\Debug\net9.0\TrilhaNetAzureDesafio.sourcelink.json

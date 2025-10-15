@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/fc664972-25fc-4f3c-a7d5-778818a16b7a/resourceGroups/desafioazuredio_group/providers/Microsoft.Web/sites/desafioazuredio",
+    "appService.deploySubpath": "bin\\Release\\net9.0\\publish"
+}

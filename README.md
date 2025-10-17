@@ -18,9 +18,10 @@ Seu objetivo é demonstrar a criação, estruturação e publicação de uma **W
 
 ## 🌐 Acesso Online
 
-A API está disponível em produção no **Azure App Service**:  
-👉 **[Acesse aqui o Swagger](https://desafioazuredio-dka4c2ddcvh4e6a6.brazilsouth-01.azurewebsites.net/swagger/index.html)**
+A API está disponível em produção no **Azure App Service** (realizei duas versões para caso de estudo):  
 
+Versão 1: **[Acesse aqui o Swagger](https://desafioazuredio-dka4c2ddcvh4e6a6.brazilsouth-01.azurewebsites.net/swagger/index.html)**
+Versão 2: **[Acesse aqui o Swagger](https://desafioprojetovideo-akc9f7gueee2fye9.brazilsouth-01.azurewebsites.net/swagger/index.html)**
 
 ---
 
